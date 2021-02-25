@@ -14,4 +14,4 @@ Bot analizador de conversaciones
 |👨‍💻 [Obed Gonzalez](https://github.com/Kobedinho)| coben.9@gmail.com | [link](https://www.linkedin.com/in/obed-gonzalez-6443594a)|
 |👨‍💻 [Criztina](https://github.com/criztinazg) | czentenog@outlook.com |[link](https://www.linkedin.com/in/cristinazenteno)|
 
-
+test
