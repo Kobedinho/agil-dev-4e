@@ -8,14 +8,13 @@ Bot que almacene las conversaciones del grupo de Telegram para extraer informaci
 Desarrollar un aplicación en python para procesar la información recopilada por el bot de telegram y mostrar mediante un tablero los resultados del análisis de la información almacenada
 
 ## 🔨 Herramientas a usar: 
-- Heroku
-- Gunicorn
-- Telegram Bot API
-- Logging
-- Django
-- Polyglot
-- Mongo DB
-- Firebase Auth
+- Red Social: Telegram Bot API
+- Logger: Logging
+- Framework: Django
+- Servidor Web: Gunicorn
+- Librerías: Polyglot
+- BD: Mongo DB
+- Servicios: Heroku, Firebase Auth
 
 ## Epica
 Implementar aplicación que permita realizar un analisis sobre las conversaciones de salas/grupos de telegram y que gestione el acceso a la información mediante el usuario/contraseña.
