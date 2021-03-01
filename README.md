@@ -4,7 +4,7 @@
 
 Bot que almacene las conversaciones del grupo de Telegram para extraer información sobre las mismas, tales como nivel de participación, contestaciones, o uso de palabras y expresiones.
 
-## Solucion: 
+## Solución: 
 Desarrollar un aplicación en python para procesar la información recopilada por el bot de telegram y mostrar mediante un tablero los resultados del análisis de la información almacenada
 
 ## 🔨 Herramientas a usar: 
