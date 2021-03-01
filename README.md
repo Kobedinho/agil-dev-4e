@@ -1,16 +1,23 @@
-# Curso de desarrollo ágil 4ta edición (2021)
-Repositorio para el proyecto del curso
+# PY-Inspector
 
-## Proyecto
+## Problema
 
-Problema a resolver: Bot que almacene las conversaciones del grupo de Telegram para extraer información sobre las mismas, tales como nivel de participación, contestaciones, o uso de palabras y expresiones.
+Bot que almacene las conversaciones del grupo de Telegram para extraer información sobre las mismas, tales como nivel de participación, contestaciones, o uso de palabras y expresiones.
 
-La solucion consistira en agregar un bot al grupo de Telegram para capturar y guardar las conversaciones en una base de datos y de ahi usar Python para obtener las estadisticas a mostrar en un dashboard.
+## Solucion: 
+Desarrollar un aplicación en python para procesar la información recopilada por el bot de telegram y mostrar mediante un tablero los resultados del análisis de la información almacenada
 
-## 🔨Herramientas a usar: 
+## 🔨 Herramientas a usar: 
 
-- Python y API de Telegram
-- Base de datos
+- Telegram Bot API
+- Logging
+- Django
+- Polyglot
+- Mongo DB
+- Firebase Auth
+
+## Epica
+Implementar aplicación que permita realizar un analisis sobre las conversaciones de salas/grupos de telegram y que gestione el acceso a la información mediante el usuario/contraseña.
 
 ## Contribuidores
 | Nombre | correo | linkdin |
